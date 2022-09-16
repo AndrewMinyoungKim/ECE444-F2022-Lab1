@@ -1,3 +1,3 @@
 Andrew Kim
 
-![](images/act1snap.png)
+![](images/act1snap.PNG)

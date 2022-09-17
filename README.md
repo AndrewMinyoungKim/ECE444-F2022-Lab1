@@ -28,5 +28,5 @@ https://github.com/AndrewMinyoungKim/ECE444-F2022EP
 ![](images/act7snap2.PNG)
 
 ### Activity 8
-![](images/act)
-![](images/act)
+![](images/act8snap.PNG)
+![](images/act8snap2.PNG)

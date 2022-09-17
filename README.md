@@ -21,7 +21,7 @@ https://github.com/jameskokoska/ECE444-F2022-Lab1
 ![](images/act5snap2.PNG)
 
 ### Activity 6
-
+https://github.com/AndrewMinyoungKim/ECE444-F2022EP
 
 ### Activity 7
 ![](images/act)

@@ -12,19 +12,19 @@
 
 ### Activity 4
 https://github.com/jameskokoska/ECE444-F2022-Lab1
-![]()
-![]()
+![](images/act4snap_james.PNG)
+![](images/act4snap_me.PNG)
 
 ### Activity 5
-![]()
+![](images/act)
 
 ### Activity 6
 
 
 ### Activity 7
-![]()
-![]()
+![](images/act)
+![](images/act)
 
 ### Activity 8
-![]()
-![]()
+![](images/act)
+![](images/act)

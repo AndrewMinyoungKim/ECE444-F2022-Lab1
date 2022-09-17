@@ -1,3 +1,7 @@
 Andrew Kim
 
-![](images/act1snap.png)
+Activity 1
+![](images/act1snap.PNG)
+
+Activity 2
+![](images/act2snap.PNG)

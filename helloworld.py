@@ -8,6 +8,10 @@ def main():
     print("Donkey")
     print("Fiona")
 
+    print("Shrek")
+    print("Donkey")
+    print("Fiona")
+
 
 if __name__ == "__main__":
     main()

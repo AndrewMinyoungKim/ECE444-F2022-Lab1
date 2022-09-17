@@ -5,6 +5,8 @@ def main():
     print("Spongebob")
 
     print("Shrek")
+    print("Donkey")
+    print("Fiona")
 
 
 if __name__ == "__main__":

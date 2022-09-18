@@ -9,5 +9,7 @@ def main():
     print("Fiona")
     print('Hello Andrew!')
 
+    print('Andrew is really really really good at playing the guitar")
+
 if __name__ == "__main__":
     main()
